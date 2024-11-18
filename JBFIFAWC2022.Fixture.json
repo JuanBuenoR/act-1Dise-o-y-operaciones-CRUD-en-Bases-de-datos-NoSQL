@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "673abefb1f46dc63f01e7142"
+  },
+  "Fecha": "20/11/2022",
+  "Sede": "Estadio Al Bayt, Jor",
+  "Fase": "Fase de Grupos",
+  "Equipo Local": "Qatar",
+  "Equipo Visitante": "Ecuador",
+  "Hora": "20:00",
+  "Arbitros": ""
+}]

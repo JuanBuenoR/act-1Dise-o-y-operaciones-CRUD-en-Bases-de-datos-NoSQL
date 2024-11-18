@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "673abef41f46dc63f01e7141"
+  },
+  "Nombre": "Lionel Scaloni",
+  "Seleccion": "Argentina",
+  "Rol": "Director Técnico"
+}]

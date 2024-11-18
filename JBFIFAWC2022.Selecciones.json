@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "673abed31f46dc63f01e713d"
+  },
+  "nombre": "Argentina",
+  "Colores": "Celeste y blanco",
+  "Palmares": "1978, 1986",
+  "Escalafon": "1",
+  "PJ": 0,
+  "PG": 0,
+  "PE": 0,
+  "PP": 0,
+  "GF": 0,
+  "DF": 0,
+  "PTS": 0
+}]
